@@ -24,4 +24,4 @@ while True:
 	elif words=='我漂亮吗':
 		print('老娘今天画了这么多的装,你没啥感觉吗？')
 	else:
-		print("我也有有点不懂,请移步isseues")
+		print("我也有有点不懂,请移步isseues. \n或者你可以直接问说这句话的人")

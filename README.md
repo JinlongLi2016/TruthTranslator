@@ -1,5 +1,6 @@
 # 真心话翻译机
-有的时候 男生往往无法理解女生说一句话的真实意思. 这个项目可以把女生说的话理解转换为其真实意思。希望这个项目希望能帮到某些人~
+有的时候 男生往往无法理解女生说一句话的真实意思. 这个项目可以把女生说的话理解转换为其真实意思。希望这个项目希望能帮到某些人~  
+You can also try [ ONline !!!](https://hardlab.github.io/truthtranslator.html) :slightly_smiling_face: 
 
 # 使用方法
 ## 下载本仓库
